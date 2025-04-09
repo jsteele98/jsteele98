@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsteele98&show_icons=true&locale=en&layout=compact" alt="jsteele98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsteele98&show_icons=true&locale=en" alt="jsteele98" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsteele98&show_icons=true&locale=en" alt="jsteele98" /></p> -->
