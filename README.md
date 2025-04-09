@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on [Open Colosseum](https://github.com/jsteele98/OpenColosseumApp)
 
-- 💬 Ask me about **Unity, React, Python or UI/UX**
+- 💬 Ask me about **Unity, React, Python, Debugging, OOP, Javascript, C#, GenAI or UI/UX**
 
 - 🔭 I’m also currently working on [NFTy Arcade](https://github.com/NFTy-Arcade)
 
-- 🌱 I’m currently learning **ML Development**
+- 🌱 I’m currently learning **AI Development in Unity**
 
-- 📝 I regularly post on [www.linkedin.com/in/🎮jacob-steele-7114b3196](www.linkedin.com/in/🎮jacob-steele-7114b3196)
+- 📝 Find me on [www.linkedin.com/in/🎮jacob-steele-7114b3196](www.linkedin.com/in/🎮jacob-steele-7114b3196)
 
 - 📫 How to reach me **jlsteele16@gmail.com**
 
-- ⚡ Fun fact [I did gymnastics & cheerleading in high school.]
+- ⚡ Fun fact [I can play the tuba, cello, piano, guitar, and flute.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
