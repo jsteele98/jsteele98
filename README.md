@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jacob Steele</h1>
-<h3 align="center">Software Engineer working on games, web apps & LLMs</h3>
+<h3 align="center">Software Engineer working on games, web apps & web3 technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsteele98&label=Profile%20views&color=0e75b6&style=flat" alt="jsteele98" /> </p>
 
