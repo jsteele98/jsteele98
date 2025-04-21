@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jlsteele16@gmail.com**
 
-- ⚡ Fun fact [I can play the tuba, cello, piano, guitar, and flute.]
+- ⚡ Fun fact [I play the tuba, cello, piano, guitar, and flute.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
